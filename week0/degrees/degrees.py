@@ -52,9 +52,6 @@ def load_data(directory):
             except KeyError:
                 pass
 
-    # print(names)
-    # print(people)
-    # print(movies)
 
 def main():
     if len(sys.argv) > 2:
@@ -138,8 +135,6 @@ def shortest_path(source, target):
                     rt.reverse()
                     return rt
                 frontier.add(child)
-
-        print(len(frontier.frontier))
 
 
 def person_id_for_name(name):
