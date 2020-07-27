@@ -1,5 +1,5 @@
 # CS50 AI 
-Mine solutions for CS50's Introduction to Artificial Intelligence with Python
+Mine solutions for CS50's Introduction to Artificial Intelligence with Python course
 
 ## Includes:
 * Projects
