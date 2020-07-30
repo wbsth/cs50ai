@@ -2,7 +2,8 @@
 Mine solutions for CS50's Introduction to Artificial Intelligence with Python course
 
 ## Includes:
-* Projects
+* Quizzes answers
+* Projects solutions
 
 ## Course info:
 * __Name:__ CS50's Introduction to Artificial Intelligence with Python
