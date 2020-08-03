@@ -3,6 +3,7 @@
 
 __pycache__/
 .venv/
+venv/
 .idea/
 
 */degrees/large/
